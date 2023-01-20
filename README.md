@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data Science, Computer Vision, Biomedical Signal Processing**
 
-- 📫 How to reach me **sabbirshibli@gmail.com**
+- 📫 Reach me at **sabbirshibli@gmail.com**
 
 - ⚡ Fun fact **I got dumped and then my spinal cord started being straight.**
 
