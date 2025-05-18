@@ -1,33 +1,72 @@
-<h1 align="center">Hi 👋, I'm Sabbir Ahmed Sibli</h1>
-<h3 align="center">I am a teacher by profession and a researcher by independence. I work on Artificial Intelligence, Machine Learning and apply ML modules to develop several Data Science Projects. You can call me, "Jack of many trades."</h3>
+# 👋 Hi, I'm Sabbir Ahmed Sibli
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirshibli&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirshibli" /> </p>
+🎓 **Bioinformatics Researcher | XAI for Structural Biology | Former University Lecturer**
 
-- 🔭 I’m currently working on **I'm currently working on the Development of a Brain-Computer Interaction System using brain signals to Spectrogram images using ConvNeXt**
+Welcome to my GitHub! I’m a motivated researcher blending **Computer Science and Biology** to develop explainable, computational tools for biological data analysis. My journey spans across **machine learning**, **bioinformatics**, and **high-performance computing**, with a focus on making AI-driven protein structure predictions more transparent and interpretable.
 
-- 🌱 I’m currently learning **Big Data Processing (i.e. Linux, AWS, Hadoop, MapReduce, Sqoop, Hive, Spark etc.)**
+---
 
-- 👯 I’m looking to collaborate on **Biomedical Signal Processing, Computer Vision and Big Data Engineering**
+## 🔬 Current Focus
 
-- 📝 I regularly write articles on [https://shibli.exposure.co/](https://shibli.exposure.co/)
+I'm currently pursuing my **Erasmus Mundus European Master's in Biomedical Engineering** (EMMBIOME) across Serbia, Greece, and Romania. My master's thesis explores:
 
-- 💬 Ask me about **Data Science, Computer Vision, Biomedical Signal Processing**
+> _“Enhancing Protein Structure Prediction using XAI Methods - A Novel Approach”_
 
-- 📫 Reach me at **sabbirshibli@gmail.com**
+This project involves:
+- Applying DeepSHAP and other explainable AI techniques to AlphaFold2, OpenFold, and ESMFold
+- Interpreting predictions to find biologically meaningful residues
+- Working with multi-omics data using HPC resources
 
-- ⚡ Fun fact **I got dumped and then my spinal cord started being straight.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sabbirshibli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbirshibli" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8769133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8769133" height="30" width="40" /></a>
-<a href="https://kaggle.com/sabbirshibli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sabbirshibli" height="30" width="40" /></a>
-<a href="https://fb.com/sabbirshibli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbirshibli" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sabbirshibli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sabbirshibli" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nikola_t3sla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikola_t3sla" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sabbirshibli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sabbirshibli" height="30" width="40" /></a>
-</p>
+## 🧠 Research Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 🧬 Master's Thesis (2025 – Present) – University of Patras
+- Implemented SHAP and LIME to interpret protein structure predictions
+- Analyzed pLDDT scores and explained residue-level contributions
+- Visualized important amino acids contributing to structure stability
 
+### 🧪 Research Intern (2024) – University of Patras
+- Focused on DeepSHAP + AlphaFold2 integration
+- Co-authored a peer-reviewed paper in _Expert Systems with Applications_ (Q1 journal)
+
+### 🧠 BCI Research Assistant (2018–2019)
+- Used ML for optimal EEG channel selection to improve brain-computer interface efficiency
+
+---
+
+## 📚 Selected Publications
+
+1. **Enhancing protein structure predictions: DeepSHAP as a tool for understanding AlphaFold2**, *Expert Systems with Applications*, 2025  
+2. **Optimal Channel Selection for EEG-Based Enhanced Brain Robot Interface**, *IEEE iCAST*, 2023  
+3. **EEG Signal Denoising for Motor Activity Recognition**, *IJCCI – Springer*, 2020  
+4. **Heart Disease Prediction Using Data Mining**, *2019*
+
+➡️ Full list: [Google Scholar](https://scholar.google.com/citations?user=a6HOspcAAAAJ)
+
+---
+
+## 💻 Technical Skills
+
+- **Languages**: Python, R, C/C++, Java, MATLAB
+- **Libraries**: NumPy, Pandas, Seaborn, Matplotlib, TensorFlow, PyTorch, Keras
+- **Bioinformatics Tools**: PyMOL, MEME Suite, EMBOSS, ClustalW, FastQC
+- **Others**: HPC (DGX), LaTeX, Git, Linux CLI
+
+---
+
+## 🧑‍🏫 Previous Role: University Lecturer (2020–2023)
+
+Taught undergraduate Computer Science courses and supervised student projects. Served as a programming coach for **ICPC (International Collegiate Programming Contest)** teams.
+
+---
+
+## 🌍 Let's Connect
+
+- 📬 Email: [sabbirshibli@gmail.com](mailto:sabbirshibli@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/sabbirshibli](https://www.linkedin.com/in/sabbirshibli)  
+- 📖 ORCID: [0000-0002-5199-504X](https://orcid.org/0000-0002-5199-504X)  
+
+---
+
+> _"Combining science and code to uncover the logic of life."_  
